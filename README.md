@@ -424,10 +424,4 @@ SQLite doesn't handle high concurrency well. For production, consider:
 - Implementing connection pooling
 - Adding write-ahead logging (WAL) mode
 
-## License
 
-This is a technical assessment project. Use as reference only.
-
-## Contact
-
-For questions, contact: careers@lyftr.ai
